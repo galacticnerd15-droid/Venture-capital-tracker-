@@ -2,7 +2,7 @@
 
 Open-source startup discovery, reported funding, news, and personal research lists.
 Free to run: a static website on **GitHub Pages**, refreshed once a day by **GitHub Actions**.
-No servers, no paid services, no sign-in.
+No servers, no paid services, no sign-in. test
 
 Live site (after the one-time setup below): https://bagoframen27.github.io/Venture-capital-tracker-/
 
